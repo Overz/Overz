@@ -127,6 +127,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Overz/Overz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Overz/Overz/output/snake-dark.svg" alt="Snake animation" />
 
 ###
