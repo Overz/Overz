@@ -51,6 +51,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="30" alt="jest logo"  />
   <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/874086?s=48&v=4" height="30" alt="JUnit"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -65,7 +67,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/20165699?s=48&v=4" height="30" alt="TypeORM logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/348262?s=48&v=4" height="30" alt="Hibernate"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
