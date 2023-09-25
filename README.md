@@ -4,15 +4,46 @@
 
 <h3 align="center">I'm a Backend Enginieer from Brazil</h3>
 
+<!--
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Overz/count.svg?"  />
 </div>
 
+-->
+
 ###
 
-<h4 align="left">About me:<br><br>- 🌐 Passionate about Information Technology<br>- 🚀 Always looking to learn and grow</h4>
+<h4 align="left">ℹ️ About me:<br><br>- 🌐 Passionate about Information Technology<br>- 🚀 Always looking to learn and grow</h4>
+
+<h4 align="left">🌱 I'm currently learning:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="30" alt="apachecassandra logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+</div>
 
 ###
 
@@ -23,6 +54,10 @@
   <img src="https://streak-stats.demolab.com?user=Overz&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Overz&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<!--
 
 ###
 
@@ -88,6 +123,8 @@
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
 </div>
 
+-->
+
 ###
 
 <div align="left">
@@ -101,38 +138,12 @@
 
 ###
 
-<h4 align="left">🌱 I'm currently learning:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="30" alt="apachecassandra logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-</div>
-
-###
+<!--
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Overz/Overz/output/snake-dark.svg" alt="Snake animation" />
 
 ###
+
+-->
